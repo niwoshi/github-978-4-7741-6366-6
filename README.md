@@ -29,6 +29,10 @@
 
 ## Read
 - 答え合わせ（回答を作る）
+### 第1章
+- GitHubとはGitのリポジトリホスティングサービス
+- PullRequest、GFM(GitHub Flavored Markdown)
+### 第2章
 
 ## Respond
 - 要約する
