@@ -17,9 +17,15 @@
 
 ## Question
 - 本の内容を予測する
-  - 要するに？
+  - Gitの基本操作＋プルリクエスト＋GitFlow
 - 目次を質問にする
   - 自分の予測
+  - PullRequestとは？
+  - PullRequestを送る手順は？
+  - Forkとは？
+  - GitFlowとは？
+  - GitFlowの大まかな流れは？
+  - GitFlowでデプロイする際に使うツールは？
 
 ## Read
 - 答え合わせ（回答を作る）
