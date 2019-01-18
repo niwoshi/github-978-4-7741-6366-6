@@ -33,6 +33,107 @@
 - GitHubとはGitのリポジトリホスティングサービス
 - PullRequest、GFM(GitHub Flavored Markdown)
 ### 第2章
+- Gitは分散型バージョン管理システム
+- Gitのインストール
+  - Windowsのみ。Mac、Linuxはデフォルトでインストール済み。
+  - 名前・メールアドレスを設定しておく
+### 第3章
+- GitHubアカウント作成
+- Gravatarの設定
+- SSH Keyの登録
+- リポジトリの作成
+### 第4章
+- 基本操作
+  - git init
+  - git status
+  - git add
+  - git commit
+  - git log
+- ブランチ
+  - git branch
+  - git checkout
+  - git reset --hard
+  - git reflog
+  - コンフリクト
+  - git commit --amend
+  - git rebase
+- リモートリポジトリ
+  - git remote add
+  - git push
+  - git clone
+  - git pull
+  - git fetch
+### 第5章
+- GitHubリポジトリ
+  - Watch/Start/Fork
+  - t
+  - 歴史の閲覧
+  - 差分の閲覧
+    - リポジトリ名/compare/比較A...比較B
+    - master@{7.day.ago}...master
+    - master@{yyyy-mm-dd}...master
+- Issue
+  - GFM
+    - タスクリスト記法
+  - Labels
+  - Milestone
+  - テンプレートやガイドライン
+    - ISSUE_TEMPLATE.md
+    - CONTRIBUTING.md
+    - PULL_REQUEST_TEMPLATE.md
+  - コミットメッセージ
+    - #id
+    - close
+- Pull Request
+  - Conversation
+  - Commits
+  - Files changed
+    - インラインコメント
+- Wiki
+- Insights
+### 第6章
+- GitHubPages
+- Fork
+  - clone
+  - branch
+  - commit
+  - push
+- WIP(Work In Progress)
+- Pull Requestの時のメンテナンス
+  - remote add upstream
+  - fetch upstream
+  - merge upstream/master
+### 第7章
+- Pull Requestを受け取る
+  - コードレビュー
+  - 画像
+    - 2-up
+    - Swipe
+    - Onion Skin
+    - Difference
+  - 自分の環境で確認
+    - clone, pullなどで更新
+    - remote add pr_user
+    - git fetch pr_user
+    - git chechout -b test_branch pr_user/pr_branch
+    - 確認
+    - git branch -D test_branch
+### 第8章
+スキップ
+### 第9章
+- GitHub Flow
+  - master -> branch -> pull request
+  - masterは常にデプロイできる状態に保つ
+  - ブランチの命名は明確に
+  - 定期的にPush
+  - 困ったらPullRequest
+  - デプロイは完全自動化
+  - テストも自動化
+  - PullRequestは小さく
+- Git Flow
+
+### 第10章
+スキップ
 
 ## Respond
 - 要約する
