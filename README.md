@@ -131,6 +131,7 @@
   - テストも自動化
   - PullRequestは小さく
 - Git Flow
+  - A successful Git branching model
 
 ### 第10章
 スキップ
