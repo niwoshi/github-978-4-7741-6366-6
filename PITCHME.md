@@ -35,16 +35,27 @@ git config --global user.email "hoge@hoge.hoge"
 
 ---
 
-## GitHubアカウント作成
+GitHubアカウント作成
+## 省略！
 
-hogehoge
-
++++
+---
+## Gitの基本操作
+---
+## GitHubの特徴
+---
+## Pull Request
+---
+## Git Flow
++++
+## Git Flow
+<img src="./images/Git-branching-model.png" width="302" height="400" />
+A successful Git branching model
 ---
 
 ## さいごに
-
-<img src="./images/Git-branching-model.png" width="453" height="600" />
-
+- 個人利用でも大いに役立つ
+- とにかく使ってみる
 
 +++
 ## 参考文献
@@ -56,6 +67,9 @@ hogehoge
 
 ---
 
-## Fin
-
-おわり
+## おわり
+<div style="text-align: right;">
+終
+<u>制作・著作</u>
+ysmn
+</div>
