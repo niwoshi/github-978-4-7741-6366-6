@@ -174,6 +174,68 @@ https://niwoshi.github.io/kansai-deshikai-coding/
 
 ## Pull Request
 
++++
+
+## 実際にプルリクを送ろう！
+
++++
+
+## まずFork
+![はじめてのFork](images/fork_001.png)
+
+## 修正する
+- clone
+```
+git clone git@github.com:deus-ex-machina-ysmn/kansai-deshikai-coding.git
+```
+
++++
+
+- ブランチを切る
+  - Pull Requestを送るときに、ブランチベースで送る
+```
+git checkout -b work master
+```
+
++++
+
+- 修正できたらコミット＋自分のリモートリポジトリを更新
+```
+git add .
+git commit -m "hogehoge"
+git push origin work
+```
+
++++
+
+![作業後のブランチ](images/fork_002.png)
+
++++
+
+## Pull Requestを送る
+![Pull Request](images/fork_003.png)
+
++++
+
+## Pull Requestの使いどころ
+- 誰か助けて！という時にプルリクを送る文化があるらしい
+- WIP(Work In Progress)
+
++++
+
+## Forkしたリポジトリのメンテナンス
+- remote add upstream
+- fetch upstream
+- merge upstream/master
+
+---
+
+## Pull Requestを受け取ったら
+
++++
+
+![Pull Request](images/pr_001.png)
+
 ---
 
 ## Git Flow
