@@ -113,11 +113,11 @@ GitHubアカウント作成
 ## Issue
   - GFM
     - タスクリスト記法
-    ```
-    - [x] Foo
-    - [ ] Bar
-    - [ ] Baz
-    ```
+```
+- [x] Foo
+- [ ] Bar
+- [ ] Baz
+```
   - Labels
   - Milestone
 
@@ -333,6 +333,8 @@ git branch -D test_branch
   - https://amzn.to/2syZmy2
 - GitHubのIssue・Pull Requestのテンプレート機能を使おう
   - https://bit.ly/2ARFeMr
+- Git-flowって何？
+  - https://bit.ly/2Ryr6lv
 
 +++
 
@@ -341,7 +343,9 @@ git branch -D test_branch
   - https://gitpitch.com/docs
 - 日本語で参考にしたページ
   - GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！
-  - https://bit.ly/2W3jVQV
+    - https://bit.ly/2W3jVQV
+  - HowToUseGitPitch2
+    - https://bit.ly/2Dk6C7f
 
 ---
 
