@@ -183,6 +183,8 @@ https://niwoshi.github.io/kansai-deshikai-coding/
 ## まずFork
 ![はじめてのFork](images/fork_001.png)
 
++++
+
 ## 修正する
 - clone
 ```
@@ -223,7 +225,7 @@ git push origin work
 
 +++
 
-## Forkしたリポジトリのメンテナンス
+## Forkしたrepoのメンテナンス
 - remote add upstream
 - fetch upstream
 - merge upstream/master
@@ -231,10 +233,43 @@ git push origin work
 ---
 
 ## Pull Requestを受け取ったら
-
+- コードレビュー
+- 自分の環境で確認
 +++
 
 ![Pull Request](images/pr_001.png)
+- 必ずコードレビューから
+
++++
+
+### 自分の環境で確認
+- git pullなどで更新
+  - 最新の状態にするのを忘れずに
+
++++
+
+- Pull Requestのブランチを取り込む
+```
+git remote add pr_user url
+git fetch pr_user
+git chechout -b test_branch pr_user/work
+```
+
++++
+
+- 確認
+
++++
+
+- OKだったらさっきのブランチは要らないので消しとく
+```
+git branch -D test_branch
+```
+
++++
+
+- マージする
+![Merge Pull Request](images/pr_002.png)
 
 ---
 
@@ -247,6 +282,28 @@ git push origin work
 ---
 
 ## GitPitch
+
++++
+
+### GitHubを使ったスライド
+- 結構便利かも
+- インターネットに繋がってればどこでもスライド
+
++++
+
+### グラフやチャートの表示
+
+
+<canvas data-chart="radar">
+
+
+    Month, 1月, 2月, 3月, 4月, 5月, 6月, 7月
+    1980, 65, 59, 80, 81, 56, 55, 40
+    2017, 28, 48, 40, 19, 86, 27, 90
+
+
+</canvas>
+
 
 ---
 

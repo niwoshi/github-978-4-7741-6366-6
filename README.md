@@ -113,7 +113,7 @@
     - Difference
   - 自分の環境で確認
     - clone, pullなどで更新
-    - remote add pr_user
+    - remote add pr_user url
     - git fetch pr_user
     - git chechout -b test_branch pr_user/pr_branch
     - 確認
