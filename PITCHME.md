@@ -273,15 +273,20 @@ git branch -D test_branch
 
 ---
 
+## GitHub Flow
+
+---
+
 ## Git Flow
 
 +++
+
 ## A successful Git branching model
 <img src="./images/Git-branching-model.png" width="302" height="400" />
 
 ---
 
-## GitPitch
+## 補足：GitPitch
 
 +++
 
@@ -322,7 +327,14 @@ git branch -D test_branch
 - とにかく使ってみる
 
 +++
+
 ## 参考文献
+- <a ref="https://amzn.to/2syZmy2">GitHub実践入門</a>
+- <a ref="https://qiita.com/nyamogera/items/3fe6985b45fbd5377184">GitHubのIssue・Pull Requestのテンプレート機能を使おう</a>
+
++++
+
+### GitPitch
 - GitPitchの使い方（公式ドキュメント）
   - https://gitpitch.com/docs
 - 日本語で参考にしたページ
