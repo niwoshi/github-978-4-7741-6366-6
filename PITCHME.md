@@ -329,8 +329,10 @@ git branch -D test_branch
 +++
 
 ## 参考文献
-- <a ref="https://amzn.to/2syZmy2">GitHub実践入門</a>
-- <a ref="https://qiita.com/nyamogera/items/3fe6985b45fbd5377184">GitHubのIssue・Pull Requestのテンプレート機能を使おう</a>
+- GitHub実践入門
+  - https://amzn.to/2syZmy2
+- GitHubのIssue・Pull Requestのテンプレート機能を使おう
+  - https://bit.ly/2ARFeMr
 
 +++
 
@@ -339,7 +341,7 @@ git branch -D test_branch
   - https://gitpitch.com/docs
 - 日本語で参考にしたページ
   - GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！
-  - https://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE
+  - https://bit.ly/2W3jVQV
 
 ---
 

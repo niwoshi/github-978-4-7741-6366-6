@@ -2,5 +2,4 @@ theme : sky
 logo : images/logo.png
 footnote : "© 2010 ysmn."
 slide-number: true
-transition : fade
 charts : true
