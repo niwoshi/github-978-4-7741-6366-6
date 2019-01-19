@@ -19,7 +19,7 @@ hogehoge
 
 ## さいごに
 
-![alt](Git-branching-model.pdf)
+![alt](Git-branching-model.png)
 
 ---
 
