@@ -67,13 +67,18 @@ GitHubアカウント作成
 - git fetch
 
 ---
-## GitHubの特徴
-- リポジトリページで見るところ
+
+## GitHub
 
 +++
 
 ![GitHub](images/github.PNG)
 - docker composeのリポジトリ
+
+---
+
+## GitHubの特徴
+- リポジトリページで見るところ
 
 +++
 
@@ -108,6 +113,8 @@ GitHubアカウント作成
 ## Issue
   - GFM
     - タスクリスト記法
+    - []
+    - [x]
   - Labels
   - Milestone
 
