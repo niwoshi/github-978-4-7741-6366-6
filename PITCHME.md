@@ -19,7 +19,7 @@ hogehoge
 
 ## さいごに
 
-<img src="Git-branching-model.png" height="80%"/>
+<img src="Git-branching-model.png" width="603" height="800" />
 
 ---
 
