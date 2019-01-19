@@ -77,7 +77,7 @@ GitHubアカウント作成
 
 +++
 
-## Watch/Start/Fork
+## Watch/Star/Fork
 - Watch
   - 更新などを通知して見ている人の数。主に開発関係者。
 - Star
@@ -95,10 +95,13 @@ GitHubアカウント作成
 
 ## 歴史の閲覧
 ![Docker Compose downloader.py](images/docker_compose_downloader_py.png)
-- 差分の閲覧
-  - リポジトリ名/compare/比較A...比較B
-  - master@{7.day.ago}...master
-  - master@{yyyy-mm-dd}...master
+
++++
+
+## 差分の閲覧
+- リポジトリ名/compare/比較A...比較B
+- master@{7.day.ago}...master
+- master@{yyyy-mm-dd}...master
 
 +++
 
@@ -107,6 +110,10 @@ GitHubアカウント作成
     - タスクリスト記法
   - Labels
   - Milestone
+
++++
+
+## Issue
   - テンプレートやガイドライン
     - ISSUE_TEMPLATE.md
     - CONTRIBUTING.md
@@ -134,9 +141,9 @@ GitHubアカウント作成
 ---
 ## Git Flow
 +++
-## Git Flow
+## A successful Git branching model
 <img src="./images/Git-branching-model.png" width="302" height="400" />
-A successful Git branching model
+
 ---
 
 ## さいごに
