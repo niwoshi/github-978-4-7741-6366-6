@@ -38,11 +38,39 @@ git config --global user.email "hoge@hoge.hoge"
 GitHubアカウント作成
 ## 省略！
 
-+++
 ---
+
 ## Gitの基本操作
+- git init
+- git status
+- git add
+- git commit
+- git log
+
++++
+## ブランチ
+- git branch
+- git checkout
+- git reset --hard
+- git reflog
+- コンフリクト
+  - git commit --amend
+  - git rebase
+
++++
+
+## リモートリポジトリ
+- git remote add
+- git push
+- git clone
+- git pull
+- git fetch
+
 ---
 ## GitHubの特徴
+- リポジトリページで見るところ
++++?image=images/github.png
+- docker composeのリポジトリ
 ---
 ## Pull Request
 ---
@@ -69,7 +97,9 @@ A successful Git branching model
 
 ## おわり
 <div style="text-align: right;">
-終
-<u>制作・著作</u>
+<div style="text-align: center;">
+<span style="font-size: 200%>終</span><br/>
+<u>制作・著作</u><br/>
 ysmn
+</div>
 </div>
