@@ -69,8 +69,12 @@ GitHubアカウント作成
 ---
 ## GitHubの特徴
 - リポジトリページで見るところ
-+++?image=images/github.png
+
++++
+
+![Subversion](images/github.png)
 - docker composeのリポジトリ
+
 ---
 ## Pull Request
 ---
@@ -98,7 +102,7 @@ A successful Git branching model
 ## おわり
 <div style="text-align: right;">
 <div style="text-align: center;">
-<span style="font-size: 200%>終</span><br/>
+<span style="font-size: 200%;">終</span><br/>
 <u>制作・著作</u><br/>
 ysmn
 </div>
