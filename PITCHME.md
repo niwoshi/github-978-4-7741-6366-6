@@ -1,14 +1,17 @@
-# タイトル
+# GitHub入門
 
 ---
-## はじめに
+## GitHubとは？
 
-hogehoge
+- Gitのリポジトリホスティングサービス
 
 +++
+## Gitとは？
 
-## はじめに（補足）
-
+- 分散型バージョン管理システム
+- バージョン管理システムの例|
+  - Subversion|
+  - Mercurial|
 ---
 
 ## つぎに
@@ -19,7 +22,7 @@ hogehoge
 
 ## さいごに
 
-<img src="Git-branching-model.png" width="603" height="800" />
+<img src="Git-branching-model.png" width="453" height="600" />
 
 ---
 
