@@ -72,10 +72,11 @@ GitHubアカウント作成
 
 +++
 
-![GitHub](images/github.png)
+![GitHub](images/github.PNG)
 - docker composeのリポジトリ
 
 +++
+
 ## Watch/Start/Fork
 - Watch
   - 更新などを通知して見ている人の数。主に開発関係者。
@@ -86,14 +87,20 @@ GitHubアカウント作成
   - PullRequestを送るためなどで分岐したリポジトリの数
 
 +++
+
 ![GitHub 検索](images/github_search.png)
 - t
+
++++
+
 ## 歴史の閲覧
 ![Docker Compose downloader.py](images/docker_compose_downloader_py.png)
 - 差分の閲覧
   - リポジトリ名/compare/比較A...比較B
   - master@{7.day.ago}...master
   - master@{yyyy-mm-dd}...master
+
++++
 
 ## Issue
   - GFM
@@ -107,11 +114,18 @@ GitHubアカウント作成
   - コミットメッセージ
     - #id
     - close
-- Pull Request
-  - Conversation
-  - Commits
-  - Files changed
-    - インラインコメント
+
++++
+
+## Pull Request
+- Conversation
+- Commits
+- Files changed
+  - インラインコメント
+
++++
+
+## その他
 - Wiki
 - Insights
 
