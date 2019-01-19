@@ -113,25 +113,31 @@ GitHubアカウント作成
 ## Issue
   - GFM
     - タスクリスト記法
-    - []
-    - [x]
+    ```
+    - [x] Foo
+    - [ ] Bar
+    - [ ] Baz
+    ```
   - Labels
   - Milestone
 
 +++
 
-## Issue
-  - テンプレートやガイドライン
-    - ISSUE_TEMPLATE.md
-    - CONTRIBUTING.md
-    - PULL_REQUEST_TEMPLATE.md
-  - コミットメッセージ
-    - #id
-    - close
+- テンプレートやガイドライン
+  - ISSUE_TEMPLATE.md
+  - CONTRIBUTING.md
+  - PULL_REQUEST_TEMPLATE.md
+- コミットメッセージ
+  - #id
+  - close
 
 +++
 
 ## Pull Request
+![Pull Request](images/pullrequest.png)
+
++++
+
 - Conversation
 - Commits
 - Files changed
@@ -144,12 +150,41 @@ GitHubアカウント作成
 - Insights
 
 ---
-## Pull Request
+
+## GitHubPages
+
++++
+
+### なんやねん
+- GitHubのリポジトリ上でウェブホスティングできる
+- たぶんVue.jsとか使えばウェブアプリ公開もできる
+
+
++++
+
+### まぁ見てよ
+https://niwoshi.github.io/kansai-deshikai-coding/
+
++++
+
+![GitHubPages](images/githubpages.png)
+
+
 ---
+
+## Pull Request
+
+---
+
 ## Git Flow
+
 +++
 ## A successful Git branching model
 <img src="./images/Git-branching-model.png" width="302" height="400" />
+
+---
+
+## GitPitch
 
 ---
 
