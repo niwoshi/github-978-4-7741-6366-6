@@ -14,6 +14,13 @@
   - Mercurial|
 
 +++
+### 集中型バージョン管理システム
+![Subversion](images/subversion.png)
++++
+### 分散型バージョン管理システム
+![Git](images/git.png)
+
++++
 ## Gitのインストール
 
 - Windowsのみ。Mac、Linuxはデフォルトでインストール済み。
@@ -21,11 +28,14 @@
 +++
 ## Gitの設定
 - 名前・メールアドレスを設定しておく
----?gist=a13fe61a7f7325185c83f92930fc9b9b
+```
+git config --global user.name "FirstName LastName"
+git config --global user.email "hoge@hoge.hoge"
+```
 
 ---
 
-## つぎに
+## GitHubアカウント作成
 
 hogehoge
 
@@ -33,7 +43,7 @@ hogehoge
 
 ## さいごに
 
-<img src="Git-branching-model.png" width="453" height="600" />
+<img src="./images/Git-branching-model.png" width="453" height="600" />
 
 
 +++
