@@ -72,8 +72,48 @@ GitHubアカウント作成
 
 +++
 
-![Subversion](images/github.png)
+![GitHub](images/github.png)
 - docker composeのリポジトリ
+
++++
+## Watch/Start/Fork
+- Watch
+  - 更新などを通知して見ている人の数。主に開発関係者。
+- Star
+  - お気に入り。後で参照したいときなど。
+  - リポジトリの注目度合いとして見られている
+- Fork
+  - PullRequestを送るためなどで分岐したリポジトリの数
+
++++
+![GitHub 検索](images/github_search.png)
+- t
+## 歴史の閲覧
+![Docker Compose downloader.py](images/docker_compose_downloader_py.png)
+- 差分の閲覧
+  - リポジトリ名/compare/比較A...比較B
+  - master@{7.day.ago}...master
+  - master@{yyyy-mm-dd}...master
+
+## Issue
+  - GFM
+    - タスクリスト記法
+  - Labels
+  - Milestone
+  - テンプレートやガイドライン
+    - ISSUE_TEMPLATE.md
+    - CONTRIBUTING.md
+    - PULL_REQUEST_TEMPLATE.md
+  - コミットメッセージ
+    - #id
+    - close
+- Pull Request
+  - Conversation
+  - Commits
+  - Files changed
+    - インラインコメント
+- Wiki
+- Insights
 
 ---
 ## Pull Request
@@ -99,11 +139,8 @@ A successful Git branching model
 
 ---
 
-## おわり
-<div style="text-align: right;">
 <div style="text-align: center;">
 <span style="font-size: 200%;">終</span><br/>
 <u>制作・著作</u><br/>
 ysmn
-</div>
 </div>
