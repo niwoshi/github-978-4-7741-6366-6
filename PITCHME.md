@@ -1,4 +1,6 @@
 # GitHub入門
+Note:
+GitのインストールとGitHubアカウントの作成は事前にやって貰うが吉
 
 ---
 ## GitHubとは？
@@ -49,7 +51,7 @@ GitHubアカウント作成
 - git log
 
 +++
-## ブランチ
+### ブランチ
 - git branch
 - git checkout
 - git reset --hard
@@ -60,7 +62,7 @@ GitHubアカウント作成
 
 +++
 
-## リモートリポジトリ
+### リモートリポジトリ
 - git remote add
 - git push
 - git clone
@@ -78,12 +80,12 @@ GitHubアカウント作成
 
 ---
 
-## GitHubの特徴
+### GitHubの特徴
 - リポジトリページで見るところ
 
 +++
 
-## Watch/Star/Fork
+### Watch/Star/Fork
 - Watch
   - 更新などを通知して見ている人の数。主に開発関係者。
 - Star
@@ -99,19 +101,19 @@ GitHubアカウント作成
 
 +++
 
-## 歴史の閲覧
+### 歴史の閲覧
 ![Docker Compose downloader.py](images/docker_compose_downloader_py.png)
 
 +++
 
-## 差分の閲覧
+### 差分の閲覧
 - リポジトリ名/compare/比較A...比較B
 - master@{7.day.ago}...master
 - master@{yyyy-mm-dd}...master
 
 +++
 
-## Issue
+### Issue
   - GFM
     - タスクリスト記法
 
@@ -136,7 +138,7 @@ GitHubアカウント作成
 
 +++
 
-## Pull Request
+### Pull Request
 ![Pull Request](images/pullrequest.png)
 
 +++
@@ -148,7 +150,7 @@ GitHubアカウント作成
 
 +++
 
-## その他
+### その他
 - Wiki
 - Insights
 
@@ -179,16 +181,16 @@ https://niwoshi.github.io/kansai-deshikai-coding/
 
 +++
 
-## 実際にプルリクを送ろう！
+### 実際にプルリクを送ろう！
 
 +++
 
-## まずFork
+### まずFork
 ![はじめてのFork](images/fork_001.png)
 
 +++
 
-## 修正する
+### 修正する
 - clone
 ```
 git clone git@github.com:deus-ex-machina-ysmn/kansai-deshikai-coding.git
@@ -220,18 +222,18 @@ git push origin work
 
 +++
 
-## Pull Requestを送る
+### Pull Requestを送る
 ![Pull Request](images/fork_003.png)
 
 +++
 
-## Pull Requestの使いどころ
+### Pull Requestの使いどころ
 - 誰か助けて！という時にプルリクを送る文化があるらしい
 - WIP(Work In Progress)
 
 +++
 
-## Forkしたrepoのメンテナンス
+### Forkしたrepoのメンテナンス
 - remote add upstream 元リポジトリURL
 - fetch upstream
 - merge upstream/master
