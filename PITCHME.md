@@ -113,11 +113,13 @@ GitHubアカウント作成
 ## Issue
   - GFM
     - タスクリスト記法
+
 ```
 - [x] Foo
 - [ ] Bar
 - [ ] Baz
 ```
+
   - Labels
   - Milestone
 
@@ -189,6 +191,7 @@ https://niwoshi.github.io/kansai-deshikai-coding/
 - clone
 ```
 git clone git@github.com:deus-ex-machina-ysmn/kansai-deshikai-coding.git
+cd kansai-deshikai-coding
 ```
 
 +++
@@ -203,7 +206,9 @@ git checkout -b work master
 
 - 修正できたらコミット＋自分のリモートリポジトリを更新
 ```
+git status
 git add .
+git status
 git commit -m "hogehoge"
 git push origin work
 ```
@@ -226,7 +231,7 @@ git push origin work
 +++
 
 ## Forkしたrepoのメンテナンス
-- remote add upstream
+- remote add upstream 元リポジトリURL
 - fetch upstream
 - merge upstream/master
 
